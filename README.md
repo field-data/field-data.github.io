@@ -30,7 +30,7 @@ The discussion of these techniques is, in fact, the main point of the whole tuto
 
 ## Target Auditory
 
-Our target auditory are modern NLP practitioners curious about the low-resource challenges similar to the ones proposed in [SIGTYP](sigtyp.github.io/) and [SIGMORPHON](https://sigmorphon.github.io/) Shared Tasks.
+Our target auditory are modern NLP practitioners curious about the low-resource challenges similar to the ones proposed in [SIGTYP](https://sigtyp.github.io/) and [SIGMORPHON](https://sigmorphon.github.io/) Shared Tasks.
 We also welcome low-Resourc NLP practitioners who have no or minor experience with the fieldwork.
 
 The tutorial is hardly perceivable for students with no programming experience.
